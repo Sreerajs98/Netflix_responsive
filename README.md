@@ -55,7 +55,7 @@ Media Queries: Used to make the design responsive across different screen sizes.
       3.Click on Visit site /  paste the project Url in your browser and run
 
 
-                              Future Improvements
+                                        Future Improvements
 
 API Integration: Integrate with a movie API (e.g., TMDb or OMDB) to fetch live movie data.
 
@@ -75,4 +75,5 @@ This repository and its contents are the intellectual property of Sreeraj S Nair
                                           Acknowledgements
 
 Special thanks to Bootstrap for their responsive components.
+
 Design inspiration from Netflix’s official homepage.
