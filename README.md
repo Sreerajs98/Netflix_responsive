@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
 
       1. Go to Settings
       2.Click on Pages
-      3.Click on Visit site /  paste the project Url and run
+      3.Click on Visit site /  paste the project Url in your browser and run
 
 
 Future Improvements
