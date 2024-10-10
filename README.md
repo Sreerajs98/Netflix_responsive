@@ -2,10 +2,12 @@ Netflix Clone
 
 
 Overview
+
 This is a responsive Netflix clone created using HTML, CSS, JavaScript, Bootstrap, and Media Queries. The project mimics the design  of the Netflix homepage, providing users with an immersive experience of browsing and exploring a collection of movies and shows.
 
 
 Project Features
+
 Responsive Design: The layout adjusts seamlessly for desktop, tablet, and mobile devices.
 Navigation Bar: A  navigation bar similar to Netflix, with a logo, menu options, and a user profile.
 Movie Banners: Dynamic banners showcasing featured movies.
